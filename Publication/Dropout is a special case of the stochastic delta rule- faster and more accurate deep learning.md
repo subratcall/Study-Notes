@@ -16,4 +16,14 @@ Notes:
 
 - The consequence of the local noise injection has a global effect on the network convergence and provide the DL with greater search efficiency which we examine later on. 
 
-- The weight sharing in SDR is more local per hidden unit than that of Dropout 
+- The weight sharing in SDR is more local per hidden unit than that of Dropout. 
+
+<div align=center><img src="https://github.com/Quan-Sun/Study-Notes/blob/master/Publication/images/SDR.png"/></div>
+
+<div align=center><img src="https://github.com/Quan-Sun/Study-Notes/blob/master/Publication/images/dropout.png"/></div>
+
+<div align=center><img src="https://github.com/Quan-Sun/Study-Notes/blob/master/Publication/images/accuracy.png"/></div>
+
+<div align=center><img src="https://github.com/Quan-Sun/Study-Notes/blob/master/Publication/images/error.png"/></div>
+
+<div align=center>all pictures come from [the paper](https://arxiv.org/pdf/1808.03578v1.pdf)</div>
