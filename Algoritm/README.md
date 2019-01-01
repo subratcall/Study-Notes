@@ -12,7 +12,8 @@
 **4.[SVM](https://github.com/Quan-Sun/Study-Notes/blob/master/Algoritm/3.K-Means.ipynb)** - A notebook introduces algorithm of `Support Vector Machine` which is a supervised machine learning algorithm using for both classification or regression challenges. Given two or more labeled classes of data, it acts as a discriminative classifier, formally defined by an optimal hyperplane that seperates all the classes. New examples that are then mapped into that same space can then be categorized based on on which side of the gap they fall.
 <div align=center><img src="https://github.com/Quan-Sun/Study-Notes/blob/master/Algoritm/images/svm.png" width="500" height="300"/></div>
 You can understand more clear by reading:
-- [Support-Vector Networks](https://link.springer.com/article/10.1007%2FBF00994018) by Cortes and Vapnik 1995
-- [Support Vector Machines](https://en.wikipedia.org/wiki/Support_vector_machine) by wikipedia
-- [Support Vector Machines for Machine Learning](https://machinelearningmastery.com/support-vector-machines-for-machine-learning/) by Jason Brownlee
+
+ - [Support-Vector Networks](https://link.springer.com/article/10.1007%2FBF00994018) by Cortes and Vapnik 1995
+ - [Support Vector Machines](https://en.wikipedia.org/wiki/Support_vector_machine) by wikipedia
+ - [Support Vector Machines for Machine Learning](https://machinelearningmastery.com/support-vector-machines-for-machine-learning/) by Jason Brownlee
 
