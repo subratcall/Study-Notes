@@ -7,3 +7,6 @@
 <div align=center>Iris as an example by C4.5</div>
 
 
+**3.[K-Means](https://github.com/Quan-Sun/Study-Notes/blob/master/Algoritm/3.K-Means.ipynb)** - A notebook introduces algorithm of `K-Means` which is used to find groups that have not been explicitly labeled in the data. You can understand clearly by looking Siraj Raval Youtube [video](https://youtu.be/9991JlKnFmk).
+
+
