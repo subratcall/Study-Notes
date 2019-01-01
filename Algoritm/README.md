@@ -9,7 +9,7 @@
 
 **3.[K-Means](https://github.com/Quan-Sun/Study-Notes/blob/master/Algoritm/3.K-Means.ipynb)** - A notebook introduces algorithm of `K-Means` which is used to find groups that have not been explicitly labeled in the data. You can understand clearly by looking Siraj Raval Youtube [video](https://youtu.be/9991JlKnFmk).
 
-**4.[SVM](https://github.com/Quan-Sun/Study-Notes/blob/master/Algoritm/3.K-Means.ipynb)** - A notebook introduces algorithm of `Support Vector Machine` which is a supervised machine learning algorithm using for both classification or regression challenges. Given two or more labeled classes of data, it acts as a discriminative classifier, formally defined by an optimal hyperplane that seperates all the classes. New examples that are then mapped into that same space can then be categorized based on on which side of the gap they fall.
+**4.[SVM](https://github.com/Quan-Sun/Study-Notes/blob/master/Algoritm/4.SVM.ipynb)** - A notebook introduces algorithm of `Support Vector Machine` which is a supervised machine learning algorithm using for both classification or regression challenges. Given two or more labeled classes of data, it acts as a discriminative classifier, formally defined by an optimal hyperplane that seperates all the classes. New examples that are then mapped into that same space can then be categorized based on on which side of the gap they fall.
 <div align=center><img src="https://github.com/Quan-Sun/Study-Notes/blob/master/Algoritm/images/svm.png" width="500" height="300"/></div>
 You can understand more clear by reading:
 
