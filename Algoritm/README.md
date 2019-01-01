@@ -13,7 +13,7 @@
 <div align=center><img src="https://github.com/Quan-Sun/Study-Notes/blob/master/Algoritm/images/svm.png" width="500" height="300"/></div>
 You can understand more clear by reading:
 
- - [Support-Vector Networks](https://link.springer.com/article/10.1007%2FBF00994018) by Cortes and Vapnik 1995
+ - [Support-Vector Networks](https://link.springer.com/article/10.1007%2FBF00994018) by Cortes and Vapnik, 1995
  - [Support Vector Machines](https://en.wikipedia.org/wiki/Support_vector_machine) by wikipedia
  - [Support Vector Machines for Machine Learning](https://machinelearningmastery.com/support-vector-machines-for-machine-learning/) by Jason Brownlee
 
